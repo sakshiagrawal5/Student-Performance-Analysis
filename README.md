@@ -22,9 +22,10 @@ This project is developed using Python and Pandas.
 * Project Structure
 * Student_Data_Project
 
-data
-output
-src
-main.py
+# It has: 
 
-py main.py
+* data
+* output
+* source
+* main.py
+
